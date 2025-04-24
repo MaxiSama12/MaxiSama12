@@ -4,9 +4,23 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Technical+Programmer+Student.;Software+Developer+Enthusiast.;Always%20learning%20new%20things.&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a apassionated for software developing. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+ <h2><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="50"/> About Me</h2>
+	
 
-## 🛠️ My Skills.
+<h4>I am a apassionated for software developing. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </h4>	
+ </br>
+	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200px"/>
+ </br>
+ </br>
+ </br>
+ 
+ 
+ <hr/>
+ </br>
+ </br>
+
+ 
+<h2>🛠️ My Skills.</h2>
 
 <div align="center"> 
 	
@@ -38,9 +52,18 @@
 
 </div>
 
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
+</br>
+</br>
+</br>
+
 <hr/>
 
-### 📈 My Github stats <br />
+</br>
+
+<h2> 📈 My Github stats</h2>
+
+<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxiSama12&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
