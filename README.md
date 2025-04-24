@@ -7,18 +7,20 @@
  <h2><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="50"/> About Me</h2>
 	
 
-<h4>I am a apassionated for software developing. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </h4>	
- </br>
-	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200px"/>
- </br>
- </br>
- </br>
- 
- 
- <hr/>
- </br>
+<h3>I am a apassionated for software developing. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. </h3>
+
+- 🌎 I'm from Argentina 
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 I like to learn something new
+
+
+	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180px"/>
  </br>
 
+ </br>
+ </br>
+ </br>
+ <hr/>
  
 <h2>🛠️ My Skills.</h2>
 
@@ -51,15 +53,15 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
-
+ 
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
 </br>
 </br>
 </br>
 
-<hr/>
 
 </br>
+<hr/>
 
 <h2> 📈 My Github stats</h2>
 
