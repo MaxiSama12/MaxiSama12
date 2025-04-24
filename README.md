@@ -16,6 +16,7 @@
 
 	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180px"/>
  </br>
+ </br>
 
  </br>
  </br>
@@ -55,6 +56,7 @@
 </div>
  
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
+</br>
 </br>
 </br>
 </br>
