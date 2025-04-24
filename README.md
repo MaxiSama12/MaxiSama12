@@ -62,11 +62,11 @@
 <br />
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxiSama12&theme=dark&show_icons=true" alt="shwetangStats" />  
-	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200px"/>
+	<img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200px"/>
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiSama12&layout=compact&theme=dark" alt="top-langs" />
-<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
+<img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
 </p>
 
 
