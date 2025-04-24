@@ -14,14 +14,11 @@
 - 🧠 I like to learn something new
 
 
-	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180px"/>
  </br>
  </br>
 
- </br>
- </br>
- </br>
- <hr/>
+ 
+ </br> 
  
 <h2>🛠️ My Skills.</h2>
 
@@ -55,24 +52,21 @@
 
 </div>
  
-<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
-</br>
-</br>
-</br>
 </br>
 
 
-</br>
-<hr/>
+</br> 
 
 <h2> 📈 My Github stats</h2>
 
 <br />
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxiSama12&theme=dark&show_icons=true" alt="shwetangStats" />  
+	<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200px"/>
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiSama12&layout=compact&theme=dark" alt="top-langs" />
+<img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
 </p>
 
 
